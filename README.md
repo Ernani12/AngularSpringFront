@@ -11,5 +11,8 @@ npm i @angular/cli
 3- Adicionar google maps
 npm i @angular/google-maps
 
-4- Abrir o front end 
+4- Adicionar google maps
+npm install ngx-search-filter --save
+
+5- Abrir o front end 
 ng s --open
